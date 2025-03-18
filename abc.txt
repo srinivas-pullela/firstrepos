@@ -1,6 +1,16 @@
 Hello GECR Family
 
 I am srinivas
+<<<<<<< HEAD
 Git
 
 hello
+=======
+Java
+
+
+
+
+
+hi
+>>>>>>> branch2
